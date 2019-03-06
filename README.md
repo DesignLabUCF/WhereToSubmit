@@ -1,8 +1,8 @@
 Where Should I submit?
 -----
 This resource is designed to answer the following questions: 
-1. "** *++Where++ do I submit my work* **?". 
-2. "** *How do you judge the ++quality++ of a journal/conference* **?"
+1. "***++Where++ do I submit my work***?". 
+2. "***How do you judge the ++quality++ of a journal/conference***?"
 
 There are many (correct) answers, but these are common questions in trans-displinary research. Nothing replaces recommendations of your top peers and your advisors - ask for advice.
 
@@ -14,7 +14,10 @@ Journal rankings and metrics externally evualate an academic journal's impact an
 
 We have attempted to organize a few fields rankings and metrics (*bias alert* - mostly ones I submit or read).
 
-<BR><HR>
+
+* [**Computer Graphics**](ComputerGraphics.md)
+<BR>
+<HR>
 
 Ranking Information
 ----------
@@ -25,6 +28,7 @@ Ranking Information
 
 - **[Altmetric](https://www.altmetric.com):** Altmetrics are [**metrics and qualitative data**](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) that are complementary to traditional, citation-based metrics. A single research output may live online in multiple websites and can be talked about across dozens of different platforms. They can include (but are not limited to) peer reviews on Faculty of 1000, citations on Wikipedia and in public policy documents, discussions on research blogs, mainstream media coverage, bookmarks on reference managers like Mendeley, and mentions on social networks such as Twitter. (WARNING: Becareful not to make this an end goal.)
 
+- **Eigenfactor Score:**
 
 
 - **5 year - Impact Factor (IF):** The impact factor (IF) of an academic journal is a measure reflecting the average number of citations to recent articles published in the journal. It is frequently used as a proxy for the relative importance of a journal within its field, with journals with higher impact factors deemed to be more important than those with lower ones based over 5 years. 
@@ -33,5 +37,3 @@ Ranking Information
 
   
 - **SCImago Journal Rank (SJR):** SCImago Journal Rank (SJR indicator) is a measure of scientific influence of scholarly journals that accounts for both the number of citations received by a journal and the importance or prestige of the journals where such citations come from. The SJR indicator is a variant of the eigenvector centrality measure used in network theory. Such measures establish the importance of a node in a network based on the principle that connections to high-scoring nodes contribute  more to the score of the node. The SJR indicator, which is inspired by the PageRank algorithm, has been developed to be used in extremely large and heterogeneous journal citation networks. It is a size-independent indicator and its values order journals by their "average prestige per article" and can be used for journal comparisons in science evaluation processes.
-
-- 
