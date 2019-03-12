@@ -1,8 +1,8 @@
 Where Should I submit?
 -----
 This resource is designed to answer the following questions: 
-1. "***++Where++ do I submit my work***?". 
-2. "***How do you judge the ++quality++ of a journal/conference***?"
+1. "***Where do I submit my work***?". 
+2. "***How do you judge the quality of a journal/conference***?"
 
 There are many (correct) answers, but these are common questions in trans-displinary research. Nothing replaces recommendations of your top peers and your advisors - ask for advice.
 
