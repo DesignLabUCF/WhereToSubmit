@@ -17,8 +17,20 @@ description
 | [**Computers, Environment and Urban Systems**](http://www.journals.elsevier.com/computers-environment-and-urban-systems)  |   |   |   |   |   |   |
 | [**Sustainable Development**](http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1719)  |   |   |   |   |   |   |
 | [**Energy Procedia**](http://www.scimagojr.com/journalsearch.php?q=17700156736&tip=sid&clean=0)  |   |   |   |   |   |   |
-| [****]()  |   |   |   |   |   |   |
+| [**Journal of Environmental Psychology**](https://www.journals.elsevier.com/journal-of-environmental-psychology)  | 3.553    | 4.887   |   |  2.091  |  1.853  |   |
+| [**Automation in Construction**]()  |   |   |   |   |   | .  |
+| [**Renewable Energy**](https://www.journals.elsevier.com/renewable-energy)  | 4.900  | 4.981   |   | 2.008   | 1.847  | .  |
+| [**Journal of Fluid Flow, Heat and Mass Transfer (JFFHMT)**](https://jffhmt.avestia.com/)  |   |   |   |   |   |   |
+| [**Renewable and Sustainable Energy Reviews**]()  |   |   |   |   |   | .  |
+| [**Journal of Building Engineering**]()  |   |   |   |   |   | .  |
+| [**Energy Procedia**]()  |   |   |   |   |   | .  |
+| [**Energy Science & Engineering**]()  |   |   |   |   |   | .  |
+| [**Frontiers of Architectural Research**]()  |   |   |   |   |   | .  |
+| [**Environmental Monitoring and Assessment**]()  |   |   |   |   |   | .  |
+| [**Energy and Environmental Engineering**]()  |   |   |   |   |   | .  |
+| [**CoDesign**](https://www.tandfonline.com/toc/ncdn20/current)  |   |   |   |   |   | .  |
 | [****]()  |   |   |   |   |   | .  |
+
 
 | **Conference Name**  | **Submission Data**  | **Acceptance Rate**  |
 |---|---|---|
@@ -27,5 +39,8 @@ description
 | [**Advanced Building Skins**](https://abs.green/home/)  |  Feb 15/ June 1 |   |
 | [**Building Simulation and Optimization (UK)**](https://www.bso2018.event.cam.ac.uk/)  | Dec 1 / Mar 16  |   |
 | [**eSim (Canada)**](http://esim2018.etsmtl.ca/)  |  Oct 15 / Feb 4 |   |
-| [****]()  |   |  . |
+| [**International Conference on Fluid Flow and Thermal Science (ICFFTS’19)**](https://icffts.com/)  | Apr 23  |  . |
+| [**International Conference on Advances in Energy Research and Applications (ICAERA’19)**](https://icaera.com/)  | Apr23  |  . |
+| [**IEEE Int. Conf. on Robotics and Automation (ICRA)**]()  |   |  . |
+| [**Sustainable Built Environment (SBE)**]()  |   |  . |
 

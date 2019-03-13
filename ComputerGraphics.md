@@ -31,6 +31,7 @@ One of the best sources to track *what is what* in *Computer Graphics* is [**Ke-
 | [**High Performance Graphics (HPG)**](http://highperformancegraphics.org)  | Mar 28, 2019  | ~33%  |
 | [**Pacific Conference on Computer Graphics and Applications**](http://pg19.org/)  | Jun 3, 2019  | -  |
 | [**Computer Animation and Social Agents (CASA)**](https://casa2019.sciencesconf.org/)  | Mar 1, 2019  | -  |
+| [**Symposium on Parallel Graphics and Visualization**](https://www.egpgv.org/egpgv2019//)  | Nov 1, 2019  | -  |
 
 | ** VR/AR Conference Name**  | **Paper Deadline** | **Acceptance Rate** |
 |---|---|---|
