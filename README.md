@@ -15,7 +15,13 @@ Journal rankings and metrics externally evualate an academic journal's impact an
 We have attempted to organize a few fields rankings and metrics (*bias alert* - mostly ones I submit or read).
 
 
+* [**Energy**](Energy.md)
 * [**Computer Graphics**](ComputerGraphics.md)
+* [**Smart Cities**](SmartCities.md)
+* [**Simulation**](Simulation.md)
+* [**Cultural Heritage**](CulturalHeritage.md)
+* [**Computational Physics**](ComputationalPhysics.md)
+* [**Cognitive Science**](CogSci.md)
 <BR>
 <HR>
 
@@ -28,7 +34,7 @@ Ranking Information
 
 - **[Altmetric](https://www.altmetric.com):** Altmetrics are [**metrics and qualitative data**](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) that are complementary to traditional, citation-based metrics. A single research output may live online in multiple websites and can be talked about across dozens of different platforms. They can include (but are not limited to) peer reviews on Faculty of 1000, citations on Wikipedia and in public policy documents, discussions on research blogs, mainstream media coverage, bookmarks on reference managers like Mendeley, and mentions on social networks such as Twitter. (WARNING: Becareful not to make this an end goal.)
 
-- **Eigenfactor Score:**
+- **Eigenfactor Score:** a rating of the total importance of a scientific journal. Journals are rated according to the number of incoming citations, with citations from highly ranked journals weighted to make a larger contribution to the eigenfactor than those from poorly ranked journals. Eigenfactor scores and Article Influence scores are calculated by [**eigenfactor.org**](eigenfactor.org). 
 
 
 - **5 year - Impact Factor (IF):** The impact factor (IF) of an academic journal is a measure reflecting the average number of citations to recent articles published in the journal. It is frequently used as a proxy for the relative importance of a journal within its field, with journals with higher impact factors deemed to be more important than those with lower ones based over 5 years. 
