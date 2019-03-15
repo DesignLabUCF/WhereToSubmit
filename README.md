@@ -17,6 +17,7 @@ We have attempted to organize a few fields rankings and metrics (*bias alert* - 
 
 * [**Energy**](Energy.md)
 * [**Computer Graphics**](ComputerGraphics.md)
+* [**Optics**](Optics.md)
 * [**Smart Cities**](SmartCities.md)
 * [**Simulation**](Simulation.md)
 * [**Cultural Heritage**](CulturalHeritage.md)
