@@ -3,14 +3,14 @@ Papers reporting on research and development in optical science and engineering 
 
 | **Journal Name**  | **Impact Factor**  | **5-year IF**  | **H index** | **SNIP** | **SJR**  | EigenValue  |
 |---|---|---|---|---|---|---|
-| [**Optics Express**](https://www.osapublishing.org/oe)  |  3.356 |   | 225  |   |  1.519 |   |
+| [**Optics Express**](https://www.osapublishing.org/oe)  |  3.356 |   | 225  | 1.567  |  1.519 | 0.19232  |
 | [**Remote Sensing of Environment**](https://www.journals.elsevier.com/remote-sensing-of-environment)  |  6.457  |  7.737  | 219  | 2.500  | 3.121  |   |
-| [**Applied Optics**](http://www.opticsinfobase.org/ao/home.cfm)  | 1.791  |   | 170  |   | 0.715  |   |
-| [**Journal of Optics**](http://iopscience.iop.org/2040-8986/)  |  2.323 |   |  74 |   |  0.839 |   |
+| [**Applied Optics**](http://www.opticsinfobase.org/ao/home.cfm)  | 1.791  |   | 170  | 1.137  | 0.715  | 0.03826  |
+| [**Journal of Optics**](http://iopscience.iop.org/2040-8986/)  |  2.323 |   |  74 |  0.866 |  0.839 |   |
 | [**International Journal of Optics**](https://www.hindawi.com/journals/ijo/)  |   |   | 12  |   | 0.231  |   |
-| [**Optics Letters**](https://www.osapublishing.org/ol)  |  3.589 |   |  77 |   |   |   |
+| [**Optics Letters**](https://www.osapublishing.org/ol)  |  3.589 |   |  77 | 1.597  | 1.79  |   |
 | [**Journal of Applied Remote Sensing**](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing)  | 0.976  | 1.146  |  34 |   |  0.441 |   |
-| [**Optical Engineering**](https://www.spiedigitallibrary.org/journals/optical-engineering)  |   |   |  89 |   |  0.424 |  . |
+| [**Optical Engineering**](https://www.spiedigitallibrary.org/journals/optical-engineering)  |   |   |  89 | 0.746  |  0.424 |  . |
 
 
 
