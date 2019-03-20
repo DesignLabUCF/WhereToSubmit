@@ -10,7 +10,7 @@ Interdisciplinary research related to building science, urban physics, and human
 | [**Building Research and Information**](http://www.tandfonline.com/toc/rbri20/current#.VGpOdPnF_mc)  | 3.136  |   | 65  | 1.805  | 1.141   |  0.003 |
 | [**Buildings**](http://www.mdpi.com/journal/buildings)  |   |   |  9 |  0.871 | 0.484  |   |
 | [**Lighting Research and Technology**](http://lrt.sagepub.com/)  |   |   | 40  |   |  0.66 |   |
-| [**Solar Energy**](http://www.journals.elsevier.com/solar-energy/)  |  4.374 | 4.831  |   | 1.791  | 1.615  |   |
+| [**Solar Energy**](http://www.journals.elsevier.com/solar-energy/)  |  4.374 | 4.831  |  85 | 1.791  | 1.615  |   |
 | [**LEUKOS: The Journal of the Illuminating Engineering Society of North America**](http://www.tandfonline.com/loi/ulks20#.VGpJsvnF_mc)  |   |   | 18  |   | 1.628  | 0.001  |
 | [**Applied Energy**](http://www.journals.elsevier.com/applied-energy/)  | 7.900  | 7.888   |  140 | 2.765   | 3.162  | 0.077  |
 | [**Renewable & Sustainable Energy Reviews**](http://www.journals.elsevier.com/renewable-and-sustainable-energy-reviews)  | 9.184  | 10.093  | 193  | 3.594  | 3.036  |  0.075 |

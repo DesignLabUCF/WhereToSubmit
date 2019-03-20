@@ -19,6 +19,6 @@ Papers reporting on research and development in optical science and engineering 
 | [**SPIE Optics and Photonics**](http://spie.org/conferences-and-exhibitions/optics-and-photonics)  | Jan 30/July 1  |   |
 | [**SPIE Smart Structures + Nondestructive Evaluation**](http://spie.org/conferences-and-exhibitions/smart-structures/nde)  |   | .  |
 | [**OSA Optics and Photonics for Sensing the Environment**](https://www.osa.org/en-us/meetings/osa_meetings/optical_sensors_and_sensing_congress/submit_papers/?utm_source=Email&utm_medium=Email&utm_campaign=SENSORS2019&utm_content=CFP01) |  | . |
-| [**Optical Technologies for Autonomous Vehicles**](https://www.frontiersinoptics.com/home/program/?utm_source=fio18reg5a&utm_medium=email&utm_campaign=fio18)  |  |   |
-
+| [**Optical Technologies for Autonomous Vehicles**](https://www.frontiersinoptics.com/home/program/?utm_source=fio18reg5a&utm_medium=email&utm_campaign=fio18)  |  | .  |
+| [**SPIE Optics and Photonics for Information Processing XII**](https://spie.org/OPO/conferencedetails/optics-photonics-information-processing)  |  | .  |
 
