@@ -12,10 +12,13 @@ of some physical phenomenon
 | [**SIMULATION: Transactions of The Society for Modeling and Simulation International**](https://journals.sagepub.com/home/sim)  |   |   | 42  |   | 0.33  | .  |
 | [**International Journal of  Modelling and Simulation**](http://www.actapress.com/Content_of_Journal.aspx?JournalID=118)  |   |   |  15 |   | 0.207  | .  |
 | [**Journal of Defense Modeling and Simulation**](https://journals.sagepub.com/home/dms)  |   |   | 15  |   | 0.028 | .  |
+| [**Decision Support Systems**](https://www.journals.elsevier.com/decision-support-systems)  | 3.565   | 4.574  |   | 2.160  | 1.656  | .  |
 | [****]()  |   |   |   |   |   | .  |
+
+
 
 | **Conference Name**  | **Submission Data**  | **Acceptance Rate**  |
 |---|---|---|
 | [**Winter Simulation**](http://meetings2.informs.org/wordpress/wsc2019/)  | April 5, 2019  |   |
 | [**ModSimulation**](http://www.modsimworld.org/)  | Dec 7  |   |
-|   |   |   |
+| [**International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation**](http://sbp-brims.org/2019/) |  Mar 1 |   |
