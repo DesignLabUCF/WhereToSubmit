@@ -5,14 +5,14 @@ of some physical phenomenon
 
 | **Journal Name**  | **Impact Factor**  | **5-year IF**  | **H index** | **SNIP** | **SJR**  | EigenValue  |
 |---|---|---|---|---|---|---|
-| [**Journal of Simulation**](https://link.springer.com/journal/41273) | 0.772  |   | 17  |   |  0.428 |   |
+| [**Journal of Simulation**](https://link.springer.com/journal/41273) | 0.772  |   | 17  |   |  0.428 |  0.001 |
 | [**Simulation**](https://journals.sagepub.com/home/sim)  |   |   |   |   |   |   |
 | [**The Journal of Cyber Security and Information Systems**](https://www.csiac.org/journal-issue/)  |   |   |   |   |   | .  |
 | [**Simulation and Gaming**](https://journals.sagepub.com/home/sag)  |   |   | 51  |   | 0.377  | .  |
 | [**SIMULATION: Transactions of The Society for Modeling and Simulation International**](https://journals.sagepub.com/home/sim)  |   |   | 42  |   | 0.33  | .  |
 | [**International Journal of  Modelling and Simulation**](http://www.actapress.com/Content_of_Journal.aspx?JournalID=118)  |   |   |  15 |   | 0.207  | .  |
 | [**Journal of Defense Modeling and Simulation**](https://journals.sagepub.com/home/dms)  |   |   | 15  |   | 0.028 | .  |
-| [**Decision Support Systems**](https://www.journals.elsevier.com/decision-support-systems)  | 3.565   | 4.574  |   | 2.160  | 1.656  | .  |
+| [**Decision Support Systems**](https://www.journals.elsevier.com/decision-support-systems)  | 3.565   | 4.574  |   | 2.160  | 1.656  | 0.012  |
 | [****]()  |   |   |   |   |   | .  |
 
 
