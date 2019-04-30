@@ -17,9 +17,14 @@ Cognitive science is the interdisciplinary, scientific study of the mind and its
 | [**Nature Human Behaviour**](https://www.nature.com/nathumbehav/)  |   |   |  7 |   |   | .  |
 | [**PloS one**](https://journals.plos.org/plosone/)  | 2.766  |   | 241  |   | 1.164  | .  |
 | [**Cognitive Science**](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12482)  |  2.617 |   | 94  |   | 1.423  | .  |
+| [**Information Systems**](https://www.journals.elsevier.com/information-systems)  |  2.551 | 2.439  |   |  2.251  | 0.805  | .  |
+| [**Information Systems Journal**](http://www.isj-editors.org/)  |  4.267 | |   |  |  | .  |
+
 
 | **Conference Name**  | **Submission Data**  | **Acceptance Rate**  |
 |---|---|---|
 | [**ACM Symposium on Eye Tracking Research & Applications (ETRA)**](http://etra.acm.org/2019/index.html)  |  Jan 1 |   |
 | [**Symposium on Applied Perception**](https://sap.acm.org/2019/)  | May 14/May 21  |   |
-| [**Human Factors and Ergonomics Society**](http://www.hfes2019.org//)  | Mar18  |   |
+| [**Human Factors and Ergonomics Society**](http://www.hfes2019.org/)  | Mar18  |   |
+| [**Cooperative Design, Visualization and Engineering (CDVE)**](http://www.cdve.org/cfpaper.html)  | Mar20  |   |
+| [**IEEE Working Conference on Software Visualization (VISSOFT)**](http://vissoft19.dcc.uchile.cl/)  | May10  |   |

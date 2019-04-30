@@ -13,6 +13,6 @@ Spatial algorithms and systems and closely related to making cities more intelli
 
 | **Conference Name**  | **Submission Data**  | **Acceptance Rate**  |
 |---|---|---|
-|   |   |   |
+| [**Graph Drawing and Network Visualizatio**](https://kam.mff.cuni.cz/gd2019/)  | Jun10  |   |
 |   |   |   |
 |   |   |   |
